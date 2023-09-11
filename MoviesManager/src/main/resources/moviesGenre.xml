@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<moviesxml>
+    <movies>
+        <movie id="0">
+            <title>aaa</title>
+            <link>aa</link>
+            <description>aa</description>
+            <picturepath>aaa</picturepath>
+            <publisheddate>2022-12-12T12:12:12</publisheddate>
+            <genres id="0">
+                <name>Komeijda</name>
+            </genres>
+        </movie>
+    </movies>
+</moviesxml>
